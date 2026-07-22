@@ -1,0 +1,9 @@
+session_id,title,topic,date,difficulty,teacher,description,capacity,available
+S001,Build a Mini Recommender in Python,Machine Learning,2026-07-12,Beginner,James,"Hands-on tutorial: use survey data and content tags to recommend videos.",30,Yes
+S002,How Neural Networks Learn,Deep Learning,2026-07-19,Beginner,James,"Visual demo of layers, weights, activation, loss, and gradient descent.",25,Yes
+S003,RAG Workshop: Give Your AI a Library,Retrieval-Augmented Generation,2026-07-26,Intermediate,James,"Build a tiny retrieval system over club notes and article summaries.",20,Yes
+S004,AI Safety Debate and Case Studies,AI Safety,2026-08-02,Beginner,Club Panel,"Discuss bias, hallucination, privacy, academic integrity, and responsible use.",35,Yes
+S005,Deploy a Streamlit AI App to GitHub,Deployment,2026-08-09,Beginner,James,"Turn a notebook prototype into a public portfolio project.",25,Yes
+S006,Reinforcement Learning Game Lab,Reinforcement Learning,2026-08-16,Intermediate,James,"Use a simple bandit game to show exploration, exploitation, and rewards.",20,Yes
+S007,Multimodal AI Show and Tell,Multimodal AI,2026-08-23,Beginner,Guest Mentor,"Explore AI that reads images, captions, audio, and text together.",30,Yes
+S008,AI for Science Lightning Talks,AI in Medicine,2026-08-30,Beginner,Club Members,"Student-led short talks about AI in health, biology, physics, and climate.",40,Yes

@@ -1,0 +1,7 @@
+member_id,name,grade,preferred_topics,desired_level,math_comfort,coding_comfort,time_budget_minutes
+U001,Avery,9,"AI Agents;Generative AI;Prompting",Beginner,2,2,30
+U002,Brianna,10,"AI Safety;AI in Medicine;Machine Learning",Beginner,3,2,25
+U003,Carlos,11,"Deep Learning;Robotics;Deployment",Intermediate,4,4,45
+U004,Divya,12,"Retrieval-Augmented Generation;Open Source AI;Deep Learning",Intermediate,5,5,60
+U005,Ethan,9,"Reinforcement Learning;AI Agents;Robotics",Beginner,2,3,35
+U006,Fatima,10,"Multimodal AI;Generative AI;AI Safety",Beginner,3,3,30

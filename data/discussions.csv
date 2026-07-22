@@ -1,0 +1,7 @@
+thread_id,channel,author,topic,post,timestamp,upvotes
+T001,ai-agents,Avery,AI Agents,"Could an AI agent plan a full science fair project but still let the student do the thinking?",2026-07-01 16:20,12
+T002,ai-safety,Brianna,AI Safety,"I think every demo should include what could go wrong and how to test it.",2026-07-02 18:05,15
+T003,deep-learning,Carlos,Deep Learning,"The attention analogy helped me understand why transformers can handle long text.",2026-07-03 14:45,9
+T004,rag-and-tools,Divya,Retrieval-Augmented Generation,"RAG feels like giving the AI a school library card before it answers.",2026-07-04 11:30,18
+T005,robotics,Ethan,Robotics,"Can reinforcement learning train a robot in simulation before it tries the real world?",2026-07-04 19:10,7
+T006,multimodal,Fatima,Multimodal AI,"I want a session where we compare image captions from different models.",2026-07-05 10:00,10
